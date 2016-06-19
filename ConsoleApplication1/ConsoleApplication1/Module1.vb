@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.Write("Dit is een test")
+        Console.Write("Hierbij een nieuwe branch")
     End Sub
 
 End Module
